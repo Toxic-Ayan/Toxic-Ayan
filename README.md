@@ -1,3 +1,23 @@
+<h2><b><i>Howdy , it's Ayan Sagor 👋</i></b></h2>
+
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
+
+<h3><b><i>🤠 About me :</i></b></h3>
+
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+
+<li> 😇 <i>Muslim</i></li>
+
+<li> 😐 <i>Studying at ABC</i></li>
+
+<li> 😪 <i>Love Sleeping</i></li>
+
+<li> 💔 <i>Born Single</i></li>
+
+<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
+
 <!-- Github README -->
 
 <p align="center"><a href="https://github.com/Toxic-Ayan">
