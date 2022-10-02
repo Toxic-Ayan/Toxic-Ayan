@@ -16,7 +16,7 @@
 
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 
-<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
+<li> 🤐 <i>Aim : Become Dream Software Engineer</i></li>
 
 <!-- Github README -->
 
